@@ -29,6 +29,7 @@ This application supports account creation, deposits, withdrawals, fund transfer
 
 The repository is organized into a monorepo structure for easy management of the independent frontend and backend services:
 
+```
 Bank_management_sys/
 │
 ├── backend/                  → Spring Boot project (REST API)
@@ -43,8 +44,7 @@ Bank_management_sys/
 │   └── ...                   → Other frontend assets
 │
 └── README.md                 → Main documentation
----
-
+```
 ## 🛠 Prerequisites
 
 Before running the application, ensure you have the following installed on your system:
