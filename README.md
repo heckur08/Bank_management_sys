@@ -29,17 +29,20 @@ This application supports account creation, deposits, withdrawals, fund transfer
 
 The repository is organized into a monorepo structure for easy management of the independent frontend and backend services:
 
-Bank_management_sys/ 
-├── backend/ → Spring Boot project (REST API) 
-│ ├── src/ → Java source code (controllers, services, models) 
-│ ├── pom.xml → Maven build configuration 
-│ └── ... → Other backend resources 
-> ├── frontend/ → Angular application (Client UI) 
-│ ├── src/ → Angular source code (components, services, routing) 
-│ ├── angular.json → Angular workspace configuration 
-│ ├── package.json → Node.js dependencies and scripts 
-│ └── ... → Other frontend assets 
-└── README.md → Main documentation
+Bank_management_sys/
+│
+├── backend/                  → Spring Boot project (REST API)
+│   ├── src/                  → Java source code (controllers, services, models)
+│   ├── pom.xml               → Maven build configuration
+│   └── ...                   → Other backend resources
+│
+├── frontend/                 → Angular application (Client UI)
+│   ├── src/                  → Angular source code (components, services, routing)
+│   ├── angular.json          → Angular workspace configuration
+│   ├── package.json          → Node.js dependencies and scripts
+│   └── ...                   → Other frontend assets
+│
+└── README.md                 → Main documentation
 ---
 
 ## 🛠 Prerequisites
