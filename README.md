@@ -138,10 +138,3 @@ We welcome contributions! To get started:
 ## License
 
 This project is intended for **academic and learning purposes** only.
-
----
-
-I can now help you with the next steps for deploying or debugging your application.
-
-For a look at the process of creating a full-stack banking application, you might find this video helpful: [Build A Complete Fullstack banking app with Spring Boot, AI and Reactjs 1](https://www.youtube.com/watch?v=hSzCjqZs_uE). Would you like to check the environment configuration files or discuss potential CORS issues?
-http://googleusercontent.com/youtube_content/0
